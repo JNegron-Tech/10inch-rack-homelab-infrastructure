@@ -20,8 +20,8 @@ The tracker below highlights the current progress of implemented systems and pla
 | ---------------------- | ---------------------------------------- | --------- |
 | Infrastructure         | Proxmox Infrastructure Host Deployment   | ✅ Completed |
 | Infrastructure         | VLAN Network Segmentation                | ✅ Completed |
-| Infrastructure         | Linux Server Deployment                  | ⬜ Planned |
-| Infrastructure         | Infrastructure Documentation             | ⬜ Planned |
+| Infrastructure         | Linux Server Deployment                  | 🟨 In Progress |
+| Infrastructure         | Infrastructure Documentation             | 🟨 In Progress |
 | Windows Infrastructure | Active Directory Domain Lab              | ⬜ Planned |
 | Linux Administration   | Secure Access Management (SSH Hardening) | ⬜ Planned |
 | Linux Administration   | Host-Based Firewall Implementation       | ⬜ Planned |
