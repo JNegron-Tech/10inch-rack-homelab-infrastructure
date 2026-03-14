@@ -53,7 +53,7 @@ The tracker below highlights the current progress of implemented systems and pla
 
 # Lab Architecture
 
-![network](diagrams/network-topology.png)
+![Network](https://github.com/JNegron-Tech/10inch-rack-homelab-infrastructure/blob/main/Rack_Layout)
 
 ---
 
