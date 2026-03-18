@@ -55,7 +55,7 @@ Key objectives of the lab:
 
 ## 🧠 Network Architecture
 
-![Network Topology](../images/NetworkTopology2.png)
+![Network Topology](images/NetworkTopology2.png)
 
 ---
 
