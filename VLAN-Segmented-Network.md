@@ -25,7 +25,7 @@ Hardware includes:
 
 Example rack photo:
 
-![lab-rack](images/rack.jpg)
+![lab-rack](images/rackresized.jpg)
 
 ---
 
