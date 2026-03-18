@@ -23,7 +23,6 @@ Hardware includes:
 - Dedicated firewall VM using **OPNsense**  
 - Admin workstation running **Parrot OS**  
 
-Example rack photo:
 
 ![lab-rack](../images/rackresized.jpg)
 
@@ -55,7 +54,7 @@ Key objectives of the lab:
 
 ## 🧠 Network Architecture
 
-![Network Topology](images/NetworkTopology2.png)
+![Network Topology](../images/NetworkTopology2.png)
 
 ---
 
