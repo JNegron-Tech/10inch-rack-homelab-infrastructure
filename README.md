@@ -65,7 +65,7 @@ The tracker below highlights the current progress of implemented systems and pla
 | Project | Description |
 |------|------|
 | [Proxmox Infrastructure Host](infrastructure/proxmox-host-build.md) | Deploying and configuring the virtualization host |
-| [VLAN Segmented Network](infrastructure/vlan-network-segmentation.md) | Implementing network segmentation |
+| [VLAN Segmented Network](VLAN-Segmented-Network.md) | Implementing network segmentation |
 | [Linux Server Deployment](infrastructure/linux-server-deployment.md) | Multi-distribution Linux infrastructure |
 
 ---
