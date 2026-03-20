@@ -28,7 +28,7 @@ Hands-on home lab for VLAN-based network segmentation using **OPNsense** on a **
 - LAN Gateway: `192.168.10.1`  
 - DNS: OPNsense LAN forwards to `1.1.1.1 / 8.8.8.8`  
 
-![DHCP Pool](../../images/dhcp_pool.png)
+![DHCP Pool](../../images/dhcp_pool_range.png)
 
 ---
 
@@ -59,7 +59,9 @@ Hands-on home lab for VLAN-based network segmentation using **OPNsense** on a **
 ping 192.168.10.1    # LAN gateway
 ping 8.8.8.8         # Internet IP
 ping google.com      # DNS resolution
+```
 
-🛠 Lessons Learned / Quick Wins
+
+### 🛠 Lessons Learned / Quick Wins
 	•	Always verify DNS is reachable for each VLAN
 	•	When ping works but domain resolution fails → check DHCP and VLAN DNS settings
