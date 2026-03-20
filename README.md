@@ -6,7 +6,7 @@ The lab is built in a physical **10-inch rack environment** and uses virtualizat
 
 ### Overall Lab Completion
 
-Progress: **2 / 20 Projects Completed**
+Progress: **3 / 20 Projects Completed**
 
 ████░░░░░░░░░░░░░░░░░░ 10%
 
