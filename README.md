@@ -4,6 +4,8 @@ This repository documents a home lab designed to simulate real-world IT infrastr
 
 The lab is built in a physical **10-inch rack environment** and uses virtualization, segmented networking, and multiple operating systems to replicate enterprise infrastructure.
 
+Links provided below to jump to specific areas of interest.
+
 ### Overall Lab Completion
 
 Progress: **3 / 20 Projects Completed**
