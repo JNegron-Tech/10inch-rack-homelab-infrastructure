@@ -25,7 +25,7 @@ The tracker below highlights the current progress of implemented systems and pla
 | Windows Infrastructure | Active Directory Domain Lab              | ⬜ Planned |
 | Linux Administration   | Secure Access Management (SSH Hardening) | ⬜ Planned |
 | Linux Administration   | Host-Based Firewall Implementation       | ⬜ Planned |
-| Linux Administration   | Internal DNS & DHCP Services             | ⬜ Planned |
+| Linux Administration   | Internal DNS & DHCP Services             | ✅ Completed |
 | Linux Administration   | Centralized File Server                  | ⬜ Planned |
 | Security               | SSH Brute-Force Mitigation (Fail2ban)    | ⬜ Planned |
 | Security               | SELinux Policy Management                | ⬜ Planned |
@@ -76,7 +76,7 @@ The tracker below highlights the current progress of implemented systems and pla
 |------|------|
 | [Secure Access Management](linux-admin/ssh-hardening.md) | SSH hardening and access control |
 | [Host Firewalls](linux-admin/host-firewalls.md) | Implementing UFW and Firewalld |
-| [DNS & DHCP Services](linux-admin/dns-dhcp-services.md) | Internal network services |
+| [DNS & DHCP Services](infrastructure-projects/Internal-DNS-DHCP/OPNSense-VLAN10-Setup.md) | Internal network services |
 
 ---
 
