@@ -63,12 +63,12 @@ ping google.com      # DNS resolution
 ___
 
 
-🛠 Lessons Learned / Quick Wins
+### 🛠 Lessons Learned / Quick Wins
 	•	Always verify DNS is reachable for each VLAN.
 	•	When ping works but domain resolution fails → check DHCP and VLAN DNS settings.
 	•	Setting correct gateway and DNS per VLAN prevents VLAN isolation issues.
-
 ---
+![DNS Meme](../../images/dns_meme.png)
 
 ## ✅ Final State
 | Device          | IP Address      |
