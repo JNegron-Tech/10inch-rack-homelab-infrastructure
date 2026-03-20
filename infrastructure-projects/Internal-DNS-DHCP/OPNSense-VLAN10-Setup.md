@@ -60,8 +60,21 @@ ping 192.168.10.1    # LAN gateway
 ping 8.8.8.8         # Internet IP
 ping google.com      # DNS resolution
 ```
+___
 
 
-### 🛠 Lessons Learned / Quick Wins
-	•	Always verify DNS is reachable for each VLAN
-	•	When ping works but domain resolution fails → check DHCP and VLAN DNS settings
+🛠 Lessons Learned / Quick Wins
+	•	Always verify DNS is reachable for each VLAN.
+	•	When ping works but domain resolution fails → check DHCP and VLAN DNS settings.
+	•	Setting correct gateway and DNS per VLAN prevents VLAN isolation issues.
+
+---
+
+## ✅ Final State
+| Device          | IP Address      |
+|-----------------|----------------|
+| GL.iNet Router  | 192.168.8.1    |
+| OPNsense LAN    | 192.168.10.1   |
+| DHCP Clients    | 192.168.10.x   |
+| Parrot PC       | 192.168.10.50  |
+
