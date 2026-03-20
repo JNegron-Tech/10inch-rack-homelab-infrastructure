@@ -8,8 +8,7 @@ The lab is built in a physical **10-inch rack environment** and uses virtualizat
 
 Progress: **3 / 20 Projects Completed**
 
-████░░░░░░░░░░░░░░░░░░ 10%
-
+[██████░░░░░░░░░░░░] 15%
 
 ## 📈 Lab Progress Tracker
 
