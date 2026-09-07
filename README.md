@@ -105,7 +105,7 @@ The tracker below highlights the current progress of implemented systems and pla
 
 | Project | Description |
 |------|------|
-| [Active Directory Lab](windows-ad/active-directory-lab.md) | Windows domain services and group policy |
+| [Active Directory Lab](infrastructure-projects/active_directory_deployment.md) | Windows domain services and group policy |
 
 ---
 
